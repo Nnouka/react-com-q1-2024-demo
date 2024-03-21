@@ -108,6 +108,5 @@ export const googleApiScriptId = 'med-sync-ai-google-api-script-24';
 export const googleAuthScriptSrc = String(
   import.meta.env.VITE_GOOGLE_CLIENT_LIB_URL,
 );
-export const googleApiScriptSrc = String(import.meta.env.VITE_GOOGLE_APIS_URL);
 
 export const googleBtnId = 'consul_google_btn_id_001';
